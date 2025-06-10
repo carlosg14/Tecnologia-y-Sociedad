@@ -6,8 +6,8 @@
 
 | Nombre           | GitHub                               |
 | :--------------- | :----------------------------------- |
-| Carlos García    | [carlosg14](https://github.com/carlosg14) |
-| Raúl Moreno      | [morenoraul](https://github.com/morenoraul/) |
+| Carlos García    | (https://github.com/carlosg14) |
+| Raúl Moreno      | (https://github.com/morenoraul/) |
 
 ### 🚀 Resumen del Proyecto
 Este proyecto busca cerrar la brecha digital entre los docentes de Turismo y Sociedad del IPEM 201 Leopoldo Marechal (Córdoba, Argentina) y el uso de herramientas tecnológicas. Se implementará un programa de capacitación práctico y personalizado para integrar aplicaciones digitales clave (Google Maps, Canva, Instagram, Conversor de Monedas) en sus prácticas pedagógicas, mejorando la enseñanza y la conexión con los estudiantes.
